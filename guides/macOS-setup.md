@@ -6,7 +6,25 @@
   * Accent color -> Green
   * Show scroll bar -> Always
   * Click in the scroll bar to -> Jump to the spot that's clicked
-* Sound -> Play feedback when volume is changed - *Enable*
+* Sound -> Plxay feedback when volume is changed - *Enable*
+* Desktop & Dock
+  * Dock Size -> Small ~10-15%
+  * Position on screen -> Bottom
+  * Minimise windows using -> Scale Effect
+  * Minimise windows into application icon -> *Enable*
+  * Automatically hide and show the Dock -> *Enable*
+  * Show suggested and recent apps in Dock -> *Disable*
+  * Hot Corners
+    * Top Left -> Application Window
+    * Rop Right -> Notification Center
+    * Bottom Left -> Lock Screen
+    * Bottom Right -> Desktop
+* Display
+  * Resolution -> More Space
+  * Automatically adjust brightness -> *Disable*
+* Lock Screen
+  * Show password hints -> *Enable*
+  * Turn display off on battery when inactive -> For 5 Minutes
 
 ## Applications - App Store
 * EasyRes
